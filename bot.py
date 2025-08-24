@@ -1,6 +1,6 @@
 from telegram.ext import Updater, CommandHandler
 
-8200356722:AAGNgAbK4wxMnY6o6rim6ldJWgjLhTjUSbk
+TOKEN = 8200356722:AAGNgAbK4wxMnY6o6rim6ldJWgjLhTjUSbk
 # your token from bot father 
 TOKEN = 8200356722:AAGNgAbK4wxMnY6o6rim6ldJWgjLhTjUSbk
 

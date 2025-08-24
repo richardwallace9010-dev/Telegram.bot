@@ -1,7 +1,7 @@
 from telegram.ext import Updater, CommandHandler
 
 TOKEN = 8200356722:AAGNgAbK4wxMnY6o6rim6ldJWgjLhTjUSbk
-# your token from bot father 
+# your token from bot father
 TOKEN = 8200356722:AAGNgAbK4wxMnY6o6rim6ldJWgjLhTjUSbk
 
 def start(update, context):
